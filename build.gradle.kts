@@ -23,11 +23,11 @@ labyMod {
     }
 
     addonInfo {
-        namespace = "example"
-        displayName = "ExampleAddon"
-        author = "Example Author"
-        description = "Example Description"
-        minecraftVersion = "*"
+        namespace = "fynntekki"
+        displayName = "Germanminer Assisant"
+        author = "Tekki GmbH"
+        description = "Desc halt"
+        minecraftVersion = 1.21.10"
         version = rootProject.version.toString()
     }
 }
